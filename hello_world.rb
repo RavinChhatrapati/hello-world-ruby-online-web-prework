@@ -1,2 +1,2 @@
 puts "Hello World!"
-irb
+"hello".class
